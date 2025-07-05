@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Michael !
+# 👋 Hello, I'm Michael !
 
 🎯 Full Stack Developer | React.js · .NET · Node.js | Azure · AWS
 
