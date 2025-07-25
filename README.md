@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Michael !
 
-🎯 Full Stack Developer | React.js · .NET · Node.js | AWS · Azure
+🎯 Full Stack Developer | React.js | .NET | Node.js | AWS | Azure
 
 I'm a passionate full-stack engineer, focused on building scalable web apps and cloud-native solutions. I enjoy solving real-world problems through elegant code and user-first design.
 
