@@ -31,4 +31,4 @@ I'm a passionate full-stack engineer, focused on building scalable web apps and 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/michael-chen-sde)
-- 📧 michael_chen943@aliyun.com
+- 📧 michael.chen394@gmail.com
